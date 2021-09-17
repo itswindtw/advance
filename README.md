@@ -2,7 +2,7 @@
 
 Calculate how much the cursor should advance for characters. (i.e. the width of characters). With Emoji support ❤️.
 
-Unicode version: 13.1
+Unicode version: 14.0
 
 ## Installation
 
